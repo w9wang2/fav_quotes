@@ -1,0 +1,4 @@
+FLASK_ENV=development
+
+FLASK_APP=quotes_minimal_app.py
+/* FLASK_APP=quotes.py */
